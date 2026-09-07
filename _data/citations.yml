@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-31'
+  last_updated: '2026-09-07'
 papers:
   eAh9ne8AAAAJ:5nxA0vEk-isC:
     citations: 1
@@ -38,6 +38,6 @@ papers:
     title: A novel deep learning based automatic ultrasonic posterior cruciate ligament clinical assessment tool
     year: '2026'
   eAh9ne8AAAAJ:zYLM7Y9cAGgC:
-    citations: 23
+    citations: 24
     title: 'AttR2U-Net: a fully automated model for MRI nasopharyngeal carcinoma segmentation based on spatial attention and residual recurrent convolution'
     year: '2022'
