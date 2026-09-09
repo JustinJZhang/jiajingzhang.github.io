@@ -9,8 +9,7 @@ cv:
   sections:
     Education:
       - institution: Sun Yat-sen University
-        location: Guangzhou and Shenzhen, China
-        url: https://www.uzh.ch/
+        location: Shenzhen, China
         area: Biomedical Engineering
         studyType: B.Eng
         start_date: 2019
@@ -18,13 +17,12 @@ cv:
         score: ""
         courses: 
         highlights:
-          - Supervised by Prof. Zhifan Gao and Prof. Changhong Wang
           - Distinguished Graduate
           - Distinguished Undergraduate Thesis
           - First-class Scholarship
 
       - institution: The University of Hong Kong
-        location: Hong Kong, China
+        location: Hong Kong
         area: Electrical and Computer Engineering
         studyType: PhD
         start_date: 2023
