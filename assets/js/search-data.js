@@ -110,20 +110,6 @@ ninja.data = [{
           window.open("https://ieeexplore.ieee.org/author/37089862108/", "_blank");
         },
       },{
-        id: 'social-orcid',
-        title: 'ORCID',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/0000-0002-4981-3534", "_blank");
-        },
-      },{
-        id: 'social-whatsapp',
-        title: 'whatsapp',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://wa.me/85269302942", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
