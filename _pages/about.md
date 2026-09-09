@@ -21,14 +21,10 @@ announcements:
   
 ---
 
-I am a Ph.D. candidate at the <a href='https://www.eee.hku.hk/'>Department of Electrical and Computer Engineering (ECE)</a>, the University of Hong Kong (HKU), from Sep 2023 to Jun 2027, supervised by <a href='https://www.eee.hku.hk/'>Prof. Wei-Ning Lee</a>.
+I am a Ph.D. candidate at the <a href='https://www.eee.hku.hk/'>Department of Electrical and Computer Engineering (ECE)</a>, the University of Hong Kong (HKU), from Sep 2023 to Sep 2027, supervised by <a href='https://www.eee.hku.hk/'>Prof. Wei-Ning Lee</a>.
 
-My research interests include Computer Vision, Deep Learning, and Medical Image Processing, especially for Ultrasound Images.
+My research interests and skill set focus on Computer Vision, Multimodal Image Processing, Vision-Language Models, and AI Agents for Science. My recent work mainly contributes to the medical ultrasound field, including image (and IQ signal) reconstruction, denoising, segmentation, disease diagnosis, and biomarker measurement.
 
-🤝 Open to Collaboration: 
+🤝 Open to Job Market:
 
-If you are interested in deep learning (including LLM, VLM), computer vision, or medical imaging, I am always excited to hear from you. Whether you have an idea to discuss, need technical or data support, or are looking for partners to push the boundaries of AI in healthcare and beyond, feel free to reach out!
-
-💼 Open to Job Market:
-
-I am actively exploring academic and industry research positions, open to part-time, visiting, or exchange opportunities.
+I am actively exploring academic and industry research positions and also seeking internship, visiting, or exchange opportunities.
