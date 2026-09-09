@@ -103,11 +103,11 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=eAh9ne8AAAAJ", "_blank");
         },
       },{
-        id: 'social-ieee',
-        title: 'IEEE Xplore',
+        id: 'social-whatsapp',
+        title: 'whatsapp',
         section: 'Socials',
         handler: () => {
-          window.open("https://ieeexplore.ieee.org/author/ieeexplore.ieee.org/author/37089862108/", "_blank");
+          window.open("https://wa.me/85269302942", "_blank");
         },
       },{
       id: 'light-theme',
