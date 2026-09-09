@@ -103,6 +103,20 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=eAh9ne8AAAAJ", "_blank");
         },
       },{
+        id: 'social-ieee',
+        title: 'IEEE Xplore',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://ieeexplore.ieee.org/author/37089862108/", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-4981-3534", "_blank");
+        },
+      },{
         id: 'social-whatsapp',
         title: 'whatsapp',
         section: 'Socials',
