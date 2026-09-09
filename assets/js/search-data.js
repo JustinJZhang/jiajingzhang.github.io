@@ -103,6 +103,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=eAh9ne8AAAAJ", "_blank");
         },
       },{
+        id: 'social-ieee',
+        title: 'IEEE Xplore',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://ieeexplore.ieee.org/author/ieeexplore.ieee.org/author/37089862108/", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
