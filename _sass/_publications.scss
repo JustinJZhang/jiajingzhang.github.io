@@ -61,6 +61,18 @@
           }
         }
 
+        .publication-placeholder {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          aspect-ratio: 4 / 3;
+          padding: 0.75rem 0.35rem;
+          font-size: 0.9rem;
+          line-height: 1.2;
+          text-align: center;
+          white-space: normal;
+        }
+
         .award {
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
