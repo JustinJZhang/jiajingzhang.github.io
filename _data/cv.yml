@@ -1,6 +1,6 @@
 cv:
   name: Jiajing Zhang
-  label: PhD Student
+  label: Ph.D. Student
   email: jiajingz@connect.hku.hk
   location: Hong Kong
   image: ""
@@ -24,7 +24,7 @@ cv:
       - institution: The University of Hong Kong
         location: Hong Kong
         area: Electrical and Computer Engineering
-        studyType: PhD
+        studyType: Ph.D.
         start_date: 2023
         end_date: 2027
         highlights:
@@ -50,7 +50,7 @@ cv:
           - Developing robotic surgical guidance software for CT-based screw-rod system implantation
 
       - company: The University of Hong Kong
-        position: PhD Student
+        position: Ph.D. Candidate
         location:
         start_date: 2023
         end_date: 2027
