@@ -14,9 +14,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      # See CUSTOMIZE.md for details on how to set up PAT for triggering subsequent workflows
-             with:
-               token: ${{ secrets.PAT }}
+        # The PAT lets this commit trigger the deploy workflow.
+        # See CUSTOMIZE.md for setup details.
+        with:
+          token: ${{ secrets.PAT }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
