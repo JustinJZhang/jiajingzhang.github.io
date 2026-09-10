@@ -78,6 +78,16 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
+@media (max-width: 575px) {
+  .profile {
+    float: none !important;
+    width: 60%;
+    max-width: 240px;
+    margin-right: auto !important;
+    margin-left: auto !important;
+  }
+}
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;
@@ -218,7 +228,7 @@ ul.task-list input[type="checkbox"] {
 .wechat-modal {
   display: none;
   position: fixed;
-  z-index: 1;
+  z-index: 1050;
   padding-top: 100px;
   left: 0;
   top: 0;
