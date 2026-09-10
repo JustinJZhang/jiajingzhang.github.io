@@ -1,6 +1,6 @@
 cv:
   name: Jiajing Zhang
-  label: Ph.D. Student
+  label: PhD Student
   email: jiajingz@connect.hku.hk
   location: Hong Kong
   image: ""
@@ -24,7 +24,7 @@ cv:
       - institution: The University of Hong Kong
         location: Hong Kong
         area: Electrical and Computer Engineering
-        studyType: Ph.D.
+        studyType: PhD
         start_date: 2023
         end_date: 2027
         highlights:
@@ -50,11 +50,17 @@ cv:
           - Developing robotic surgical guidance software for CT-based screw-rod system implantation
 
       - company: The University of Hong Kong
-        position: Ph.D. Candidate
+        position: PhD Student
         location:
         start_date: 2023
         end_date: 2027
         highlights:
           - Supervised by Prof. Wei-Ning Lee
           - Building AI models and agents toward next-generation medical ultrasound imaging systems by enhancing image quality, increasing framerate, and improving robustness.
-        
+
+    Service:
+      - label: Reviewer
+        details: IEEE Transactions on Medical Imaging, IEEE Signal Processing Letters
+
+      - label: Teaching Assistant
+        details: BMED3603 Statistics and mathematical analysis for biomedical engineering, BMED 3504 Biomedical Engineering Laboratory
