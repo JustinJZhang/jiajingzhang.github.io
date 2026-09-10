@@ -6,7 +6,7 @@ email: jiajingz@connect.hku.hk
 scholar_userid: eAh9ne8AAAAJ # your Google Scholar ID
 ieee_id: 37089862108 # your ieeexplore.ieee.org/author/id
 orcid_id: 0000-0002-4981-3534 # your ORCID ID
-# wechat_qr: wechat.jpg
+wechat_qr: wechat.jpg
 whatsapp_number: 85269302942 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
 #   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
