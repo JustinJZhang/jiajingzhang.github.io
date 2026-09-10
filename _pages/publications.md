@@ -9,6 +9,17 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+{% assign total_citations = 0 %}
+{% for paper in site.data.citations.papers %}
+{% assign total_citations = total_citations | plus: paper[1].citations %}
+{% endfor %}
+
+<p>
+  <a href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+  citations: <strong>{{ total_citations }}</strong>
+  <span class="text-muted">(updated {{ site.data.citations.metadata.last_updated }})</span>
+</p>
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
