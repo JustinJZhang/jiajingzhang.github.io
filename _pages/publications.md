@@ -17,7 +17,6 @@ nav_order: 2
 <p>
   <a href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}" target="_blank" rel="noopener noreferrer">Google Scholar</a>
   citations: <strong>{{ total_citations }}</strong>
-  <span class="text-muted">(updated {{ site.data.citations.metadata.last_updated }})</span>
 </p>
 
 <!-- Bibsearch Feature -->
