@@ -117,6 +117,13 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0002-4981-3534", "_blank");
         },
       },{
+        id: 'social-wechat_username',
+        title: 'Wechat_username',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
+        },
+      },{
         id: 'social-whatsapp',
         title: 'whatsapp',
         section: 'Socials',
